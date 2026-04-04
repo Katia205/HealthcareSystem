@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tuan\\Do_an_1\\con health\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|con health||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|c:\\tuan\\do_an_1\\con health\\con health\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|C:\\Tuan\\Do_an_1\\con health\\con health\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|solutionrelative:con health\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0ECD0A-A6F8-49D1-A266-AAC88ED294DE}|con health\\con health.csproj|c:\\tuan\\do_an_1\\con health\\con health\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\Form1.cs",
+              "RelativeDocumentMoniker": "con health\\Form1.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\Form1.cs",
+              "RelativeToolTip": "con health\\Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwLkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T14:16:51.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "con health",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\con health.csproj",
+              "RelativeDocumentMoniker": "con health\\con health.csproj",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\con health.csproj*",
+              "RelativeToolTip": "con health\\con health.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-02T08:08:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\Form1.cs",
+              "RelativeDocumentMoniker": "con health\\Form1.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\Form1.cs [Design]",
+              "RelativeToolTip": "con health\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T14:13:54.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHistory.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormHistory.cs",
+              "RelativeDocumentMoniker": "con health\\FormHistory.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormHistory.cs",
+              "RelativeToolTip": "con health\\FormHistory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:12:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormLogin.cs",
+              "RelativeDocumentMoniker": "con health\\FormLogin.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormLogin.cs [Design]",
+              "RelativeToolTip": "con health\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:36:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormRegister.cs",
+              "RelativeDocumentMoniker": "con health\\FormRegister.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormRegister.cs",
+              "RelativeToolTip": "con health\\FormRegister.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAswK8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:18:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormRegister.cs",
+              "RelativeDocumentMoniker": "con health\\FormRegister.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormRegister.cs [Design]",
+              "RelativeToolTip": "con health\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:07:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormHistory.cs",
+              "RelativeDocumentMoniker": "con health\\FormHistory.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormHistory.cs [Design]",
+              "RelativeToolTip": "con health\\FormHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:04:20.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormHistory.Designer.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormHistory.Designer.cs",
+              "RelativeDocumentMoniker": "con health\\FormHistory.Designer.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormHistory.Designer.cs",
+              "RelativeToolTip": "con health\\FormHistory.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAD4vysAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:11:15.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "con health\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormLogin.Designer.cs",
+              "RelativeToolTip": "con health\\FormLogin.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAlwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:19:14.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "con health\\Form1.Designer.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\Form1.Designer.cs",
+              "RelativeToolTip": "con health\\Form1.Designer.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAMwNkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T14:42:51.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormLogin.cs",
+              "RelativeDocumentMoniker": "con health\\FormLogin.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\FormLogin.cs",
+              "RelativeToolTip": "con health\\FormLogin.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:10:49.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\Database.cs",
+              "RelativeDocumentMoniker": "con health\\Database.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\Database.cs",
+              "RelativeToolTip": "con health\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:03:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tuan\\Do_an_1\\con health\\con health\\Program.cs",
+              "RelativeDocumentMoniker": "con health\\Program.cs",
+              "ToolTip": "C:\\Tuan\\Do_an_1\\con health\\con health\\Program.cs",
+              "RelativeToolTip": "con health\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T20:15:58.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

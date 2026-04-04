@@ -1,0 +1,20 @@
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\con health.exe.config
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\con health.exe
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\con health.pdb
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con health.csproj.AssemblyReference.cache
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con_health.Form1.resources
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con_health.Properties.Resources.resources
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con health.csproj.GenerateResource.cache
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con health.csproj.CoreCompileInputs.cache
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con health.exe
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con health.pdb
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\MQTTnet.dll
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\Newtonsoft.Json.dll
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\MQTTnet.xml
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\Newtonsoft.Json.xml
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con health.csproj.Up2Date
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\System.Data.SqlClient.dll
+C:\Tuan\Do_an_1\con health\con health\bin\Debug\System.Data.SqlClient.xml
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con_health.FormLogin.resources
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con_health.FormRegister.resources
+C:\Tuan\Do_an_1\con health\con health\obj\Debug\con_health.FormHistory.resources
